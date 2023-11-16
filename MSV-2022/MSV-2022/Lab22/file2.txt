@@ -1,0 +1,38 @@
+'use strict'
+function sumpt(a,b)
+{
+let z;
+let zxc;
+zxc = '123';
+z = a+b;
+for(let i = 0 ; i < 3; i++)
+{
+z = z+1;
+};
+return '11111';
+}
+function klm(a,b)
+{
+let z;
+z = 1;
+}
+function main()
+{
+let zx_1;
+let kzkz;
+zx_1='123123'+'121231232';
+console.log(zx_1);
+let abc;
+abc='12314124'.slice();
+let flst;
+flst = 11+13*(3+5);
+abc = '';
+console.log(abc);
+console.log('0000000000');
+let kekw;
+let lobst;
+lobst = '123123';
+return 0;
+};
+
+main();

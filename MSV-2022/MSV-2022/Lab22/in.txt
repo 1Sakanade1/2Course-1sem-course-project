@@ -1,0 +1,38 @@
+integer function fi(integer a, integer b)
+{
+declare integer z;
+z = a+b*(1 + 1011);
+print z;
+
+echo(101){
+z = z + 1;
+};
+print z;
+return 100101;
+}
+
+vacuum function fv(integer a, integer b)
+{
+declare integer z;
+z = 1 + a + b;
+print z;
+}
+
+main
+{
+declare string check;
+
+declare string test;
+
+copystr(check,'1234');
+print check;
+
+concatstr(test,check,'1234');
+print test;
+
+declare integer i;
+
+i = fi(1, 101);
+declare vacuum vp;
+return 0;
+};

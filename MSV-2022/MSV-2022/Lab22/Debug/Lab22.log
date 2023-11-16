@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab22.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  IT.cpp
+C:\Container\code\MSV-2022\MSV-2022\Lab22\IT.cpp(79,36): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+C:\Container\code\MSV-2022\MSV-2022\Lab22\IT.cpp(99,36): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+C:\Container\code\MSV-2022\MSV-2022\Lab22\IT.cpp(161): warning C4715: IT::IdTable::GetEntry: значение возвращается не при всех путях выполнения
+C:\Container\code\MSV-2022\MSV-2022\Lab22\IT.cpp(195): warning C4172: возвращение адреса локальной или временной переменной : buffer
+  Lab22.vcxproj -> C:\Container\code\MSV-2022\MSV-2022\Debug\MSV-2022.exe

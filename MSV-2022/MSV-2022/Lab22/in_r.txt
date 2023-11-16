@@ -1,0 +1,42 @@
+integer function sumpt(integer a, integer b)
+{
+declare integer z;
+declare string zxc;
+
+zxc = '123';
+z = a + b;
+
+echo(11){
+z = z + 1;
+};
+return z;
+};
+
+vacuum function klm(integer a, integer b)
+{
+declare integer z;
+z = 1;
+};
+
+
+main
+{
+declare string zx_1;
+declare integer kzkz;
+concatstr(zx_1,'123123','121231232');
+print zx_1;
+declare string abc;
+copystr(abc,'12314124');
+declare integer flst;
+
+flst = 1011 + 1101*(11+101);
+abc = '123124';
+print abc;
+
+print '0000000000';
+declare integer kekw;
+
+kekw = sumpt (11,10);
+print kekw;
+return 0;
+};

@@ -1,0 +1,34 @@
+'use strict'
+function fi(a,b)
+{
+let z;
+z = a+b*(1+11);
+console.log(z);
+for(let i = 0 ; i < 5; i++)
+{
+z = z+1;
+};
+console.log(z);
+return 37;
+}
+function fv(a,b)
+{
+let z;
+z = 1+a+b;
+console.log(z);
+}
+function main()
+{
+let check;
+let test;
+check='1234'.slice();
+console.log(check);
+test=check+'1234';
+console.log(test);
+let i;
+i = fi(1,5);
+let vp;
+return 0;
+};
+
+main();
